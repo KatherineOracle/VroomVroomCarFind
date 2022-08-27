@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "make": "Mercedes-Benz",
+    "model": "A-class",
+    "seats": "7",
+    "photo": "/images/0635e0ca857e632b45ba277f3334e26d_merc-a-seriesw.ebp"
+  },
+  {
+    "id": 2,
+    "make": "Land Rover",
+    "model": "Defender 90",
+    "seats": "6",
+    "photo": "/images/a129439f9aaede3720250ae348a2d4bc_TRANSPARENT_cc_2023LRS130002_01_1280_1AA.png"
+  },
+  {
+    "id": 3,
+    "make": "Toyota",
+    "model": "Corolla",
+    "seats": "5",
+    "photo": "/images/c1b705701f9d03813feb1247b21650cb_toyotacorolla.jpg"
+  },
+  {
+    "id": 4,
+    "make": "Toyota",
+    "model": "Yaris",
+    "seats": "5",
+    "photo": "/images/f7861f4ed9f09a99719e71776170c8b1_2014-toyota-yaris-le-3-door-hatchback-angular-frontw.ebp"
+  },
+  {
+    "id": 6,
+    "make": "Peugeot",
+    "model": "208",
+    "seats": "5",
+    "photo": "/images/991c7458006eb239b5756e205ee1ffe7_peugeot-208.jpg"
+  },
+  {
+    "id": 8,
+    "make": "Peugeot",
+    "model": "Landrek",
+    "seats": "5",
+    "photo": "/images/84dace99e88231c293ba185f2d1553af_landrek.jpg"
+  },
+  {
+    "id": 7,
+    "make": "BMW",
+    "model": "2 Series Gran Coupe",
+    "seats": "5",
+    "photo": "/images/a3691ffe62074401693e5d1f5c6081fa_cosySec.png"
+  }
+]
